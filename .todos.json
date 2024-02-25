@@ -1,0 +1,20 @@
+[
+  {
+    "Task": "Sample todo",
+    "Done": true,
+    "CreatedAt": "2024-02-25T15:00:23.4398841-05:00",
+    "CompletedAt": "2024-02-25T15:16:47.1172281-05:00"
+  },
+  {
+    "Task": "hora",
+    "Done": false,
+    "CreatedAt": "2024-02-25T15:24:17.5320534-05:00",
+    "CompletedAt": "0001-01-01T00:00:00Z"
+  },
+  {
+    "Task": "before tu y yo",
+    "Done": false,
+    "CreatedAt": "2024-02-25T15:48:30.980118-05:00",
+    "CompletedAt": "0001-01-01T00:00:00Z"
+  }
+]
